@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dana Lurie
-- 🌱 I’m currently learning Full stack development
+- 🌱 I’m a full stack Full stack developer
 - 📫 How to reach me: danalurie4@gmail.com
 - 
 <!---
